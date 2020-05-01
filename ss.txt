@@ -1,2 +1,8 @@
 hello Mahendra
 I am goint ot test git reset.
+
+
+int main(int argc, char * argv[]){
+
+return 0;
+}
