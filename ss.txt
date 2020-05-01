@@ -1,0 +1,2 @@
+hello Mahendra
+I am goint ot test git reset.
