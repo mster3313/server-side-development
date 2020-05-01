@@ -3,6 +3,7 @@ I am goint ot test git reset.
 
 
 int main(int argc, char * argv[]){
-
+printf("This is nice\n");
+FILE * file = fopen("open.txt","r");
 return 0;
 }
