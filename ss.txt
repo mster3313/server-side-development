@@ -9,6 +9,9 @@ if (file == NULL){
 printf("OK");
 
 read_the_file();
+store_in_array();
 }
+
+delete_everything;
 return 0;
 }
